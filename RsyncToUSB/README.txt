@@ -1,6 +1,6 @@
 Please read this:-
 
-This script I have written for my enviornment,  it wont be same as what you have. You have to change the paramaeter accordilgly. 
+This script I have written for my enviornment,  it wont be same as what you have. You have to change the paramaeter accordingly. 
 
 The USB storage device for me is "/mnt/bkp/" and after mounting it  I have created a dir "alfdailybackup" 
 
