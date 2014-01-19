@@ -1,0 +1,12 @@
+Aim of this script:-
+It should take backup of the alfresco instance and database, by 
+(a)Stopping the Alfresco instance 
+(b)Taking a MySQL dump
+(c)rsync the alfresco install dir and MySQL dump to  USB device
+(d)restart the alfresco instance 
+
+Credit:-
+This script I have partially taken from the script writen By Ajeeth Samuel. I have made modification to suit my enviornment
+
+ 
+
