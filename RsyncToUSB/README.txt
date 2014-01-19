@@ -4,8 +4,6 @@ This script I have written for my enviornment,  it wont be same as what you have
 
 The USB storage device for me is "/mnt/bkp/" and after mounting it  I have created a dir "alfdailybackup" 
 
-I have avoided mounting the USB device using 'fstab' entry, this is because some time when the machine is booted up, it will have problem if the USB is detached from the machine
-
-
+I have avoided mounting the USB device using 'fstab' entry, this is because some time there are chances that USB drive is detached and the machine when booted up,  will have problem
 
 
